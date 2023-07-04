@@ -1,0 +1,60 @@
+Cota: ABCD1234
+Nombre: ATARDECER
+Precio: 125.24
+Anio: 2012
+Status: EN MANTENIMIENTO
+
+Cota: AAAA0000
+Nombre: NARANJAL
+Precio: 1542.2
+Anio: 2000
+Status: EN EXHIBICION
+
+Cota: AADV1425
+Nombre: ARBOLEDA
+Precio: 150
+Anio: 1985
+Status: EN EXHIBICION
+
+Cota: BASF2512
+Nombre: MAR
+Precio: 21.21
+Anio: 1975
+Status: EN MANTENIMIENTO
+
+Cota: GBDS2132
+Nombre: SOLEDAD
+Precio: 12.2
+Anio: 1915
+Status: EN EXHIBICION
+
+Cota: CSRR2141
+Nombre: ESTRELLA
+Precio: 21.25
+Anio: 2020
+Status: EN EXHIBICION
+
+Cota: VSCA1152
+Nombre: FLORES
+Precio: 100.5
+Anio: 1800
+Status: EN EXHIBICION
+
+Cota: ACAS2216
+Nombre: CIELO
+Precio: 45.62
+Anio: 1898
+Status: EN EXHIBICION
+
+Cota: DVAA2590
+Nombre: AZUL
+Precio: 30
+Anio: 1985
+Status: EN EXHIBICION
+
+Cota: BBBB9876
+Nombre: SAMAN
+Precio: 556.4
+Anio: 2015
+Status: EN MANTENIMIENTO
+
